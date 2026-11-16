@@ -1,6 +1,6 @@
 # Haptic Armbands
 
-These armbands were developed by me as part of the 5th semester project, *Pain reduction for children using VR and haptic feedback as distraction*, which explores the use of virtual reality and haptic feedback to reduce pain during blood sampling procedures.
+These armbands were developed by me as part of the 5th semester project, *[Pain reduction for children using VR and haptic feedback as distraction](https://github.com/sadcoffeee/GhostPatrol)*, which explores the use of virtual reality and haptic feedback to reduce pain during blood sampling procedures.
 
 The armbands provide vibrotactile feedback through multiple vibration motors positioned around the user's arm. By delivering tactile stimulation close to the site of the medical procedure, the system aims to support pain reduction while also increasing immersion within the VR experience.
 
